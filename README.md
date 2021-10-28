@@ -6,8 +6,8 @@
 - Print the user's name and what their age will be in 30 years
   - Hello `NAME`, you will be `AGE+30` in 30 years.
 
-Example Input:<br/>
-Joe Bob<br/>
-16<br/>
-Example Output:<br/>
+Example Input:\
+Joe Bob\
+16\
+Example Output:\
 Hello Joe Bob, you will be 46 in 30 years.

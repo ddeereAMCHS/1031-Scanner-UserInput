@@ -1,6 +1,6 @@
 # UserInput
 
-## Due: Wed 9/14 at 11:59 PM
+## Due: Wed 9/13 at 11:59 PM
 
 - Create a program called `UserInput.java`
 - Prompt the user for their name
